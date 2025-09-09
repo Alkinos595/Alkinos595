@@ -18,7 +18,7 @@ QA Engineer 🧪 and indie game developer 🎮
 Passionate about <b>game design 🎲, programming 💻, and creative projects 🎨</b>.  
 <br/>
 <br/>
-I mostly work with <b>Godot Engine 🐙</b>, and I enjoy blending  
+I mostly work with <b>Godot Engine </b>, and I enjoy blending  
 <b>logic 🔢, creativity 🌟, and optimization ⚡</b> in everything I do.
 <br/>
 <br/>
