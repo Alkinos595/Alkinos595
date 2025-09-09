@@ -1,30 +1,56 @@
-## Hi there 👋
+<h1 align="left">👋 Hi, I’m Alkinos595</h1>
+<h3 align="left">✨ usually only Alkinos, but the nick was taken ¬¬</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alkinos595)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Alkinos595&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Alkinos595&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
+<!-- ====== Two-column layout ====== -->
+<table width="100%">
+<tr>
 
-<!--
-**Alkinos595/Alkinos595** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ====== Left column ====== -->
+<td width="50%" valign="top">
 
-Here are some ideas to get you started:
+<h2 align="left">🧑‍💻 About me</h2>
+<p>
+QA Engineer 🧪 and indie game developer 🎮
+<br/>
+<br/>
+Passionate about <b>game design 🎲, programming 💻, and creative projects 🎨</b>.  
+<br/>
+<br/>
+I mostly work with <b>Godot Engine 🐙</b>, and I enjoy blending  
+<b>logic 🔢, creativity 🌟, and optimization ⚡</b> in everything I do.
+<br/>
+<br/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="left">🔧 Tech I’ve worked with</h2>
+<ul>
+  <li>🌐 <b>Web:</b> HTML, CSS, JavaScript, Angular</li>
+  <li>⚙️ <b>Programming:</b> C, GDScript</li>
+  <li>🛠️ <b>Other:</b> Java, Python (basic), IT & hardware support</li>
+</ul>
+
+</td>
+
+<!-- ====== Right column ====== -->
+<td width="50%" valign="top">
+
+<h2 align="left">📊 GitHub Stats</h2>
+<img src="https://github-readme-stats.vercel.app/api?username=Alkinos595&show_icons=true&theme=tokyonight" width="100%"/>
+
+<h2 align="left">📈 Most Used Languages</h2>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alkinos595&layout=donut&theme=tokyonight&langs_count=6&hide=makefile,shell" width="100%"/>
+
+</td>
+
+</tr>
+</table>
+<!-- ====== End two-column layout ====== -->
+
+---
+
+✨ Always learning 📚, always building 🏗️.
+
+
+
