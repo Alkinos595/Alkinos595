@@ -37,10 +37,10 @@ I mostly work with <b>Godot Engine </b>, and I enjoy blending
 <td width="50%" valign="top">
 
 <h2 align="left">📊 GitHub Stats</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=Alkinos595&show_icons=true&theme=chartreuse-dark" width="100%"/>
+<img src="https://alkinos-github-readme-stats.vercel.app/api?username=Alkinos595&show_icons=true&theme=chartreuse-dark" width="100%"/>
 
 <h2 align="left">📈 Most Used Languages</h2>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alkinos595&layout=donut&theme=chartreuse-dark&langs_count=6&hide=makefile,shell" width="100%"/>
+<img src="https://alkinos-github-readme-stats.vercel.app/api/top-langs/?username=Alkinos595&layout=donut&theme=chartreuse-dark&langs_count=6&hide=makefile,shell" width="100%"/>
 
 </td>
 
