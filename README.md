@@ -3,11 +3,11 @@
 
 ---
 
-<!-- ====== Two-column layout ====== -->
+<!-- ======= Two-column layout ======= -->
 <table width="100%">
 <tr>
 
-<!-- ====== Left column ====== -->
+<!-- ======= Left column ======= -->
 <td width="50%" valign="top">
 
 <h2 align="left">🧑‍💻 About me</h2>
@@ -33,7 +33,7 @@ I mostly work with <b>Godot Engine </b>, and I enjoy blending
 
 </td>
 
-<!-- ====== Right column ====== -->
+<!-- ======= Right column ======= -->
 <td width="50%" valign="top">
 
 <h2 align="left">📊 GitHub Stats</h2>
@@ -46,7 +46,7 @@ I mostly work with <b>Godot Engine </b>, and I enjoy blending
 
 </tr>
 </table>
-<!-- ====== End two-column layout ====== -->
+<!-- ======= End two-column layout ======= -->
 
 ---
 
